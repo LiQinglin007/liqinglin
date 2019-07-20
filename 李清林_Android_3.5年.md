@@ -11,8 +11,7 @@
  - 李清林/男/1994
  - 工作年限：3.5年
  - 技术博客: https://blog.csdn.net/qq_15037349 
- - GitHub：https://github.com/LiQinglin007/
-
+ - GitHub：https://github.com/LiQinglin007
  - 期望职位：Android开发工程师/Java开发工程师
 
 ---
@@ -30,16 +29,16 @@
 * 这是一个通过手机控制家庭/办公室智能设备的项目。
 * 个人职责：Android端项目负责人
 * 主要技术
-  1、HTTP通信过程传输加密，使用AES+RSA技术实现，确保密文传输，提高安全性；
-  2、是同TCP协议与设备通信
-  3、wifi模块，修改wifi状态等，兼容Android8.0/9.0设备
+  1、HTTP通信过程传输加密，使用AES+RSA技术实现，确保密文传输，提高安全性；<br>
+  2、是同TCP协议与设备通信;<br>
+  3、wifi模块，修改wifi状态等，兼容Android8.0/9.0设备;<br>
   4、语音助手模块
 ### 污水监测系统 
 * 这是一个监测企业污水排放系统。
 * 个人职责：Android端项目负责人，参与后端开发
 * 主要技术
-  1、后端：使用SpringMVC+MyBatis框架开发后台程序，为移动端提供数据支撑；
-  2、后端：使用Redis实现用户登陆状态的管理
+  1、后端：使用SpringMVC+MyBatis框架开发后台程序，为移动端提供数据支撑;<br>
+  2、后端：使用Redis实现用户登陆状态的管理<br>
 
 #### 其他项目
 * 河北省天然气数据平台：实时统计天然气使用数据。负责Android开发、Java后端维护
@@ -52,7 +51,7 @@
 * 这是一个线上购物，社交软件，给用户提供美食推荐，社交圈含即时通讯，朋友圈功能。
 * 个人职责：负责Android即时通讯，朋友圈，支付模块的开发和维护工作
 * 主要技术
-  1、微信/支付宝/银联支付；
+  1、微信/支付宝/银联支付；<br>
   2、基于环信SDK实现即时通信功能
 #### 其他项目
 * 学术圈：线上审评、修改论文平台。Android端负责人
@@ -73,6 +72,6 @@
 ---
 
 ## 开源项目
-* 基础库<br>BaseLibApplication:https://github.com/LiQinglin007/BaseLibApplication  
-* 仿淘宝、京东商品详情页<br>PullToLoadMoreView-master：https://github.com/LiQinglin007/PullToLoadMoreView-master 
-* 双刻度的仪表盘<br>TempHumViewApp：https://github.com/LiQinglin007/TempHumViewApp 
+* 基础库BaseLibApplication<br>https://github.com/LiQinglin007/BaseLibApplication  
+* 仿淘宝、京东商品详情页PullToLoadMoreView-master<br>https://github.com/LiQinglin007/PullToLoadMoreView-master 
+* 双刻度的仪表盘TempHumViewApp<br>https://github.com/LiQinglin007/TempHumViewApp 
