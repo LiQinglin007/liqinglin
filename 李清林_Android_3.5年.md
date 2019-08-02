@@ -57,5 +57,11 @@
 ---
 ## 开源项目
 * 基础库BaseLibApplication<br>https://github.com/LiQinglin007/BaseLibApplication  
+
 * 仿淘宝、京东商品详情页PullToLoadMoreView-master<br>https://github.com/LiQinglin007/PullToLoadMoreView-master 
+
 * 双刻度的仪表盘TempHumViewApp<br>https://github.com/LiQinglin007/TempHumViewApp 
+
+* 基于BaseMvp的"玩Android"客户端程序<br>
+
+  https://github.com/LiQinglin007/OpenAppMVP
