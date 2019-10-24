@@ -127,7 +127,7 @@ RealCall.execute()方法将call添加到OkHttpClient的同步执行队列中，�
   }
 ```
 Dispatcher.executed()方法就把Call添加到同步执行队列中。<br>
-每次调用executed()方法时，Dispatcher会帮我们把同步请求添加到同步请求队列中，Dispatcher的作用就是维持Call请求状态和维护线程池，并把Call请求到相应的请求队列中，有请求队列决定当前Call请求是等待还是直接执行。
+每次调用executed()方法时，Dispatcher会帮我们把同步请求添加到同步请求队列中，Dispatcher的作用就是维持Call请求状态和维护线程池，并把Call请求到相应的请求队列中，由请求队列决定当前Call请求是等待还是直接执行。
 
 在请求结束后，执行Dispatcher().finished()方法
 ```java
