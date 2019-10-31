@@ -6,8 +6,8 @@
 ## 个人信息
  - 李清林/男/1994
  - 工作年限：3.5年
- - 技术博客: https://blog.csdn.net/qq_15037349 
- - GitHub：https://github.com/LiQinglin007
+ - [CSDN]( https://blog.csdn.net/qq_15037349 ):累计访问7w+
+ - [GitHub](https://github.com/LiQinglin007)
  - 期望职位：Android开发工程师/Java开发工程师
 ---
 ## 工作经历
@@ -16,7 +16,7 @@
 ###### 工作成就
 * 开发和维护以OkHttp3为基础网络结构，以MVP架构设计的Android依赖库。提供网络通信、图片加载、多样式Dialog、时间选择器、动态申请权限、在线升级等模块和常用工具，并上传到jCenter中，供应用层使用。提高了工作效率，可以专心把思想放在业务上。达到快速开发，便于维护的目的。
 * 发现项目中HTTP通讯使用明文，研究并实现了HTTP协议数据传输中的加密技术，实现了类似HTTPS的加密效果，提升了数据的安全性。
-* 3.熟悉TCP、UDP、串口通信协议
+* 熟悉TCP、UDP、串口通信协议
 #### 智能家居项目 
 * 这是一个通过手机控制家庭/办公室智能设备的项目。
 * 个人职责：Android端项目负责人
@@ -37,7 +37,7 @@
 ### 石家庄三秒科技有限公司_Android工程师 （ 2016年1月 ~2017年5月 ）
 负责Android方面软件开发和维护工作，包括即时通讯，商城，社交，地图类项目。熟练使用和掌握三方工具类。封装常用工具类，提升开发效率。
 #### 千米送 
-* 这是一个线上购物，社交软件，给用户提供美食推荐，社交圈含即时通讯，朋友圈功能。
+* 这是一个线上购物，社交软件，给用户提供美食推荐，社交圈含即时通讯，朋友圈功能的软件。
 * 个人职责：负责Android即时通讯，朋友圈，支付模块的开发和维护工作
 * 主要技术<br>
   1、微信/支付宝/银联支付；<br>
@@ -50,18 +50,18 @@
 * Android个版本差异及适配； 
 * OkHttp3、Eventbus源码；
 * 数据持久化，数据库升级；
+* 熟悉Kotlin
 * 熟悉构造者模式等设计模式；
 * 熟悉MySql、SQLServer数据库的使用，掌握基本sql语句的编写；
 * 熟悉SpringMvc、SpringBoot、MyBatis、Redis框架；
-* 熟悉Kotlin及Flutter
 ---
 ## 开源项目
-* 基础库BaseLibApplication<br>https://github.com/LiQinglin007/BaseLibApplication  
+* [基础库BaseLibApplication](https://github.com/LiQinglin007/BaseLibApplication)
 
-* 仿淘宝、京东商品详情页PullToLoadMoreView-master<br>https://github.com/LiQinglin007/PullToLoadMoreView-master 
+* [仿淘宝、京东商品详情页PullToLoadMoreView-master](https://github.com/LiQinglin007/PullToLoadMoreView-master )
 
-* 双刻度的仪表盘TempHumViewApp<br>https://github.com/LiQinglin007/TempHumViewApp 
+* [双刻度的仪表盘TempHumViewApp](https://github.com/LiQinglin007/TempHumViewApp )
 
-* 基于BaseMvp的"玩Android"客户端程序<br>
+* [基于BaseMvp的"玩Android"客户端程序](https://github.com/LiQinglin007/OpenAppMVP)
 
-  https://github.com/LiQinglin007/OpenAppMVP
+  
