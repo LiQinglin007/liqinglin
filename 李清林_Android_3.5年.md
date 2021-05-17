@@ -6,8 +6,8 @@
 ## 个人信息
  - 李清林/男/1994
  - 工作年限：3.5年
- - [CSDN]( https://blog.csdn.net/qq_15037349 ):累计访问7w+
- - [GitHub](https://github.com/LiQinglin007)
+ - [CSDN]( https://blog.csdn.net/qq_15037349 ):累计访问7w+    https://blog.csdn.net/qq_15037349
+ - [GitHub](https://github.com/LiQinglin007)   https://github.com/LiQinglin007
  - 期望职位：Android开发工程师/Java开发工程师
 ---
 ## 工作经历
@@ -56,12 +56,12 @@
 * 熟悉SpringMvc、SpringBoot、MyBatis、Redis框架；
 ---
 ## 开源项目
-* [基础库BaseLibApplication](https://github.com/LiQinglin007/BaseLibApplication)
+* [Github项目：基础库BaseLibApplication](https://github.com/LiQinglin007/BaseLibApplication)
 
-* [仿淘宝、京东商品详情页PullToLoadMoreView-master](https://github.com/LiQinglin007/PullToLoadMoreView-master )
+* [Github项目：仿淘宝、京东商品详情页PullToLoadMoreView-master](https://github.com/LiQinglin007/PullToLoadMoreView-master )
 
-* [双刻度的仪表盘TempHumViewApp](https://github.com/LiQinglin007/TempHumViewApp )
+* [Github项目：双刻度的仪表盘TempHumViewApp](https://github.com/LiQinglin007/TempHumViewApp )
 
-* [基于BaseMvp的"玩Android"客户端程序](https://github.com/LiQinglin007/OpenAppMVP)
+* [Github项目：基于BaseMvp的"玩Android"客户端程序](https://github.com/LiQinglin007/OpenAppMVP)
 
   
