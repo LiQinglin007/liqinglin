@@ -15,7 +15,11 @@ VARCHAR2是Oracle提供的特定数据类型，Oracle可以保证VARCHAR2在任�
 #####  LOB--大型对象
 
  BLOB:二进制大型文件，可存储字节流数据(影像等)<br>
- CLOB：可存储大数据量内容,适用于存储文本型内容
+ CLOB：可存储大数据量内容,适用于存储文本型内容<br>
+ 这个查询的时候返回的不是String类型，需要使用TO_CHAR转换一下
+ ```
+ select  TO_CHAR(Test.OTHER_CONTROL)  OTHERCS from Test
+ ```
 
 
 
